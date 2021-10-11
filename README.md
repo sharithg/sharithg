@@ -1,6 +1,6 @@
 ### Hi im Sharith 👋
 
-## I'm Junior Developer 🖥️
+## I'm Fullstack Developer 🖥️
 
 - ❓ Learning as much as i can
 - 🎉 React + Node FTW
