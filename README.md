@@ -1,7 +1,5 @@
 ### Hi im Sharith 👋
 
-## I'm Fullstack Developer 🖥️
-
 - ❓ Learning as much as i can
 - 🎉 React + Node FTW
 - 🦦 2021 Goals: Master golang
