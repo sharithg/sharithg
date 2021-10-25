@@ -1,7 +1,7 @@
 ### Hi im Sharith 👋
 
 - ❓ Learning as much as i can
-- 🎉 React + Node FTW
+- 🎉 React + Node
 - 🦦 2021 Goals: Master golang
 - 🪨 I like bouldering in my free time
 
