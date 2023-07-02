@@ -2,7 +2,7 @@
 
 - ❓ Learning as much as i can
 - 🎉 React + Node
-- 🦦 2021 Goals: Master golang
+- 🦦 2023 Goals: Master rust
 - 🪨 I like bouldering in my free time
 
 ### Languages and Tools:
